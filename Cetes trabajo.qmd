@@ -1,0 +1,18 @@
+---
+title: "cetes"
+format: html
+editor: visual
+Autor: Juan Eduardo Calderon del Rio
+---
+
+#Ejemplo del uso de mis formulas
+
+En e4ste ejemplo cargo mi link para la informacion de CETES de [Github](https://github.com/eduardocdr1/cetes/blob/main/README.md)
+
+
+Se cargan las funciones de manera remota:
+```{r}
+source("https://raw.githubusercontent.com/eduardocdr1/cetes/refs/heads/main/README.md")
+```
+
+##
